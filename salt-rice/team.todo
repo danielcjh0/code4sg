@@ -1,26 +1,26 @@
 Frontend
     Component development including business logic
-        Register User
+        Register User (Ethan) 
             ☐ Register Component (takes basic info from user. eg: Name to be used, age, interests.)
-        Home page
+        Home page (Arun's partner) 
             ☐ Menu with banner (UI)
             ☐ Category selection
             ☐ Posts container
             ☐ Post cards
             ☐ Footer (UI)
-        New Post Page
+        New Post Page (Ian) 
             ☐ New Post Component
-        Post Detail Page
+        Post Detail Page (Ian)
             ☐ Post detail Component
             ☐ Comments list Component
-    Routing for navigation
+    Routing for navigation (Ian) 
         ☐ Register to Home
         ☐ Home to Detail
         ☐ Home to Create New Post
         ☐ Detail to Create New Post
     
 
-Backend
+Backend (Manoj) 
     services
         ☐ post service
             create
@@ -46,7 +46,7 @@ Backend
         users
 
 
-Database
+Database (Selvam) 
     ☐ To update the schema to include all fields
     ☐ Create index for the important search fields
 
